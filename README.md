@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MatheusPPimentel
 - 👀 I’m interested in ... programin
-- 🌱 I’m currently learning ... HTML, CSS, Java, SQL
-- 💞️ I’m looking to collaborate on ... backend
+- 🌱 I’m currently learning ... HTML,SQL, Python
+- 💞️ I’m looking to collaborate on ... Cloud
 - 📫 How to reach me ... my e-mail matheushau@gmail.com
 
 <!---
